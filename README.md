@@ -16,8 +16,9 @@
 9. [Что такое алгоритмы](https://github.com/iradche/Data-Intro-2020-course/blob/master/lectures/lec08.md).
 
 
-### Опрос 
+### Опросы 
 - [Предварительный опросник](https://docs.google.com/forms/d/e/1FAIpQLSdf2jXxfyBTcvJEJz072qKXLYhj_0x5kYbws03OeQzVSyN19A/viewform).         
+- [Опросник после занятия 1](https://docs.google.com/forms/d/e/1FAIpQLSe1tHiqGt066XDz_sq4xy3yLCzG-lgjPP9Cw5QCeQWH6UcJQw/viewform).         
 
 
 ### Оценка за курc       
