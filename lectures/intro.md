@@ -7,6 +7,9 @@
 Телеграм: @dadaistka      
 Skype: iradche   
 
+### Ассистент
+Чистякова Виктория Валерьевна
+Телеграм: @vitaclear
 
 ### Важные ссылки курса
 Телеграм-группа курса: https://t.me/joinchat/Bv2QTBO4AliKGONqlaMVdg     
