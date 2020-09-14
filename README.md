@@ -6,7 +6,7 @@
 ### Обзор курса
 
 1. [Введение](https://github.com/iradche/Data-Intro-2020-course/blob/master/lectures/intro.md).
-2. [Определения данных, метаданных и большие данных](https://github.com/iradche/Data-Intro-2020-course/blob/master/lectures/lec01.md).     
+2. [Определения данных, метаданных и больших данных](https://github.com/iradche/Data-Intro-2020-course/blob/master/lectures/lec01.md).     
 3. [Жизненный цикл данных и жизненный цикл метаданных](https://github.com/iradche/Data-Intro-2020-course/blob/master/lectures/lec02.md).
 4. [Большие данные: технологии и архитектура систем больших данных](https://github.com/iradche/Data-Intro-2020-course/blob/master/lectures/lec03.md).
 5. [Работа с данными](https://github.com/iradche/Data-Intro-2020-course/blob/master/lectures/lec04.md).
