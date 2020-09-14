@@ -8,7 +8,7 @@
 Skype: iradche   
 
 ### Ассистент
-Чистякова Виктория Валерьевна
+Чистякова Виктория Валерьевна     
 Телеграм: @vitaclear
 
 ### Важные ссылки курса
@@ -18,7 +18,9 @@ Skype: iradche
        
 Ссылка на MS Teams: https://teams.microsoft.com/l/team/19%3a83ee9d14a5794e7ba657934091481492%40thread.tacv2/conversations?groupId=0ccb466b-c83f-440f-8b04-f4f2c7a310ed&tenantId=21f26c24-0793-4b07-a73d-563cd2ec235f       
           
-Предварительный опрос: https://docs.google.com/forms/d/e/1FAIpQLSdf2jXxfyBTcvJEJz072qKXLYhj_0x5kYbws03OeQzVSyN19A/viewform         
+- [Предварительный опрос](https://docs.google.com/forms/d/e/1FAIpQLSdf2jXxfyBTcvJEJz072qKXLYhj_0x5kYbws03OeQzVSyN19A/viewform)     
+- [Опрос после занятия 1](https://docs.google.com/forms/d/e/1FAIpQLSe1tHiqGt066XDz_sq4xy3yLCzG-lgjPP9Cw5QCeQWH6UcJQw/viewform).         
+
 
 
 
