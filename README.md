@@ -18,7 +18,8 @@
 
 ### Опросы 
 - [Предварительный опросник](https://docs.google.com/forms/d/e/1FAIpQLSdf2jXxfyBTcvJEJz072qKXLYhj_0x5kYbws03OeQzVSyN19A/viewform).         
-- [Опросник после занятия 1](https://docs.google.com/forms/d/e/1FAIpQLSe1tHiqGt066XDz_sq4xy3yLCzG-lgjPP9Cw5QCeQWH6UcJQw/viewform).         
+- [Опросник после занятия 1](https://docs.google.com/forms/d/e/1FAIpQLSe1tHiqGt066XDz_sq4xy3yLCzG-lgjPP9Cw5QCeQWH6UcJQw/viewform).     
+- [Опросник после занятия 2](https://docs.google.com/forms/d/e/1FAIpQLScd0K3BG_5EIkvGm_CLSD8fu59UMbA6mZWtmCTRHJeUhfvS0g/viewform).      
 
 
 ### Оценка за курc       
