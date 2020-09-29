@@ -10,7 +10,7 @@ ___________
 
 #### Практическая работа с OpenRefine
 
-1. Скачайте (по ссылке: https://openrefine.org/download.html) и установить OpenRefine на свой компьютер.
+1. Скачайте (по ссылке: https://openrefine.org/download.html) и установите OpenRefine на свой компьютер.
 2. Скачайте инструкцию: https://github.com/iradche/Data-Intro-2020-course/blob/master/lectures/OpenRefine_manual.pdf.        
 3. Скачайте тестовый набор данных: https://github.com/iradche/Data-Intro-2020-course/blob/master/lectures/universityData.csv.         
 4. Выполните действия с набором данных, описанные в инструкции.    
