@@ -23,4 +23,18 @@ _______
 **Программное обеспечение** является одним из видов обеспечения вычислительной системы, наряду с техническим (аппаратным), математическим, информационным, лингвистическим, организационным, методическим и правовым обеспечением.
 ([Из русскоязычной Википедии](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5))       
       
-**Computer software**, or simply software, is a collection of data or computer instructions that tell the computer how to work. This is in contrast to physical hardware, from which the system is built and actually performs the work. In computer science and software engineering, computer software is all information processed by computer systems, programs and data. Computer software includes computer programs, libraries and related non-executable data, such as online documentation or digital media. Computer hardware and software require each other and neither can be realistically used on its own. ([Из англоязычной Википедии](https://en.wikipedia.org/wiki/Software))
+**Computer software**, or simply software, is a collection of data or computer instructions that tell the computer how to work. This is in contrast to physical hardware, from which the system is built and actually performs the work. In computer science and software engineering, computer software is all information processed by computer systems, programs and data. Computer software includes computer programs, libraries and related non-executable data, such as online documentation or digital media. Computer hardware and software require each other and neither can be realistically used on its own. ([Из англоязычной Википедии](https://en.wikipedia.org/wiki/Software))      
+
+       
+_______
+      
+      
+#### Знакомство с программированием в Processing
+
+Сайт Processing: https://processing.org/      
+Скачать Processing: https://processing.org/download/       
+Первые шаги в Processing: https://processing.org/tutorials/gettingstarted/     
+Онлайн-книга по Processing: https://natureofcode.com/book/introduction/      
+
+
+
