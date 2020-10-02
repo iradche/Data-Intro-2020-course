@@ -1,3 +1,37 @@
+### Форматы данных
+
+#### Формат CSV
+1. RFC 4180: https://tools.ietf.org/html/rfc4180        
+2. CSV валидаторы:        
+- https://csvlint.io/      
+- https://toolkitbay.com/tkb/tool/csv-validator      
+- https://csvlint.com/online-validator      
+
+#### Формат XLS (с 2007 XLSX)
+Office Open XML: https://en.wikipedia.org/wiki/Office_Open_XML     
+
+
+#### Формат JSON
+1. RFC 7159: https://tools.ietf.org/html/rfc7159      
+2. RFC 8259: https://datatracker.ietf.org/doc/rfc8259/      
+3. JSON валидаторы:    
+- https://jsonlint.com/    
+- https://jsonformatter.curiousconcept.com/     
+- https://www.freeformatter.com/json-validator.html     
+
+#### Формат XML
+1. Спецификация от W3C: https://www.w3.org/TR/xml/     
+2. Канонический XML 1.0: https://tools.ietf.org/html/rfc3076      
+3. Устаревший RFC 3075 (XML-Signature Syntax and Processing): https://tools.ietf.org/html/rfc3275       
+4. RFC 3470 (Guidelines for the Use of Extensible Markup Language (XML) within IETF Protocols): https://tools.ietf.org/html/rfc3470       
+5. XML валидаторы:      
+- https://www.xmlvalidation.com/
+- https://www.w3schools.com/xml/xml_validator.asp     
+- https://codebeautify.org/xmlvalidator
+
+
+
+
 ### Обработка данных
 
 Обработку данных рассмотрим на примере работы с OpenRefine.     
