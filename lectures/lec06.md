@@ -38,3 +38,12 @@ _______
 
 
 
+_______
+
+Дальнейшее изучение Processing: https://p5art.tumblr.com/tutorials       
+Онлайн-курс по Processing: https://www.futurelearn.com/courses/creative-coding      
+Обучающие видео от [Daniel Shiffman](https://thecodingtrain.com/): https://www.youtube.com/c/TheCodingTrain/featured     
+
+
+
+
