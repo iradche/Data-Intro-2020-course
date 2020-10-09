@@ -11,13 +11,13 @@
 
 |||
 |---|---|
-|18:10|**начало 1 пары**|      
+|**18:10|начало 1 пары**|      
 |18:50|перерыв 5 минут| 
-|18:55|**начало второй части 1 пары**|      
+|**18:55|начало второй части 1 пары**|      
 |19:35|перерыв 10 минут|       
-|19:45|**начало 2 пары**|       
+|**19:45|начало 2 пары**|       
 |20:15|перерыв 5 минут|       
-|20:20|**начало второй части 2 пары**|     
+|**20:20|начало второй части 2 пары**|     
 |21:00|конец 2 пары|      
 
 
@@ -42,7 +42,8 @@
 - [Опросник после занятия 2](https://docs.google.com/forms/d/e/1FAIpQLScd0K3BG_5EIkvGm_CLSD8fu59UMbA6mZWtmCTRHJeUhfvS0g/viewform).     
 - [Опросник после занятия 3](https://docs.google.com/forms/d/e/1FAIpQLScUyN2mpESKogCZe0VimZ3MVTAi7-D_jnZwVbgCLw5diyGxNQ/viewform).   
 - [**Контрольный Опросник**](https://docs.google.com/forms/d/e/1FAIpQLScXpXj9wkbUCFZadb6QJZ2ykev-WVU7KJnFRLbEJzy2ztXkqA/viewform). 
-- [Опросник после занятия 4](https://docs.google.com/forms/d/e/1FAIpQLScsY8IBNJI77iRITb2lqZ6ENSASZT4CcU87xdSdoh-mq4TnkA/viewform).
+- [Опросник после занятия 4](https://docs.google.com/forms/d/e/1FAIpQLScsY8IBNJI77iRITb2lqZ6ENSASZT4CcU87xdSdoh-mq4TnkA/viewform).    
+- [Опросник после занятия 5](https://docs.google.com/forms/d/e/1FAIpQLSd4ppduNUfFU263m7Ge0PyLnt-pstoCnRs1aNkJTBJTOLifjA/viewform).
 
 
 ### Оценка за курc       
