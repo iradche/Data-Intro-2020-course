@@ -31,8 +31,8 @@
 5. [Поиск данных](https://github.com/iradche/Data-Intro-2020-course/blob/master/lectures/lec04.md).    
 6. [Обработка данных](https://github.com/iradche/Data-Intro-2020-course/blob/master/lectures/lec05.md).      
 7. [Что такое компьютерная программа и программное обеспечение](https://github.com/iradche/Data-Intro-2020-course/blob/master/lectures/lec06.md).      
-8. [Что такое алгоритмы](https://github.com/iradche/Data-Intro-2020-course/blob/master/lectures/lec08.md).       
-9. [История языков программирования](https://github.com/iradche/Data-Intro-2020-course/blob/master/lectures/lec07.md).
+8. [Что такое алгоритмы](https://github.com/iradche/Data-Intro-2020-course/blob/master/lectures/lec07.md).       
+9. [История языков программирования](https://github.com/iradche/Data-Intro-2020-course/blob/master/lectures/lec08.md).
 
 
 
